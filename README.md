@@ -1,6 +1,6 @@
 # Hi 👋, I'm Slowdiiive
 
-### A budding Python developer
+### A Python developer
 
 - 🔭 I'm currently working on **a full stack project, which uses JavaScript, MongoDB and Vue.js**
 
